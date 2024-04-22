@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ncaroline
-- 👀 I’m interested in ... learning coding for improving my knowledge
-- 🌱 I’m currently learning ... HTML and CSS
-- 💞️ I’m looking to collaborate on ... Learning more
-- 📫 How to reach me ...  on discord Nataliia#1090
+- 👀 I’m interested in learning coding to improve my knowledge
+
 
 <!---
 ncaroline/ncaroline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
